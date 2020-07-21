@@ -1,0 +1,25 @@
+<Atlas>
+	<Texture filename="musha_skill.tex" />
+    <Elements>
+        <Element name="chengzhang.tex" u1="0" u2="0.1953125" v1="0.8046875" v2="1" />
+        <Element name="dengjixinxi.tex" u1="0.1953125" u2="0.390625" v1="0.8046875" v2="1" />
+        <Element name="hudun.tex" u1="0.390625" u2="0.5859375" v1="0.8046875" v2="1" />
+        <Element name="jineng.tex" u1="0.5859375" u2="0.78125" v1="0.8046875" v2="1" />
+        <Element name="jinengxinxi.tex" u1="0.78125" u2="0.9765625" v1="0.8046875" v2="1" />
+        <Element name="nvwushen.tex" u1="0" u2="0.1953125" v1="0.609375" v2="0.8046875" />
+        <Element name="qiehuan.tex" u1="0.1953125" u2="0.390625" v1="0.609375" v2="0.8046875" />
+        <Element name="shandian.tex" u1="0.390625" u2="0.5859375" v1="0.609375" v2="0.8046875" />
+        <Element name="shouji.tex" u1="0.5859375" u2="0.78125" v1="0.609375" v2="0.8046875" />
+        <Element name="shuijiao.tex" u1="0.78125" u2="0.9765625" v1="0.609375" v2="0.8046875" />
+        <Element name="shujing.tex" u1="0" u2="0.1953125" v1="0.4140625" v2="0.609375" />
+        <Element name="touguan.tex" u1="0.1953125" u2="0.390625" v1="0.4140625" v2="0.609375" />
+        <Element name="waimao.tex" u1="0.390625" u2="0.5859375" v1="0.4140625" v2="0.609375" />
+        <Element name="wuqi.tex" u1="0.5859375" u2="0.78125" v1="0.4140625" v2="0.609375" />
+        <Element name="xiaoniu.tex" u1="0.78125" u2="0.9765625" v1="0.4140625" v2="0.609375" />
+        <Element name="xunbao.tex" u1="0" u2="0.1953125" v1="0.21875" v2="0.4140625" />
+        <Element name="yingzi.tex" u1="0.1953125" u2="0.390625" v1="0.21875" v2="0.4140625" />
+        <Element name="you.tex" u1="0.390625" u2="0.5859375" v1="0.21875" v2="0.4140625" />
+        <Element name="zhandou.tex" u1="0.5859375" u2="0.78125" v1="0.21875" v2="0.4140625" />
+        <Element name="zuo.tex" u1="0.78125" u2="0.9765625" v1="0.21875" v2="0.4140625" />
+    </Elements>
+</Atlas>
