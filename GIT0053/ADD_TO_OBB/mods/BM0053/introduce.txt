@@ -1,0 +1,26 @@
+Mod Name:Moon Shadow Assassin
+Name:Wili
+
+health:70
+hungry:100
+sanity:120
+move speed:1.2
+
+1.Wili has 5% chance to kill the enemy when she attack.
+2.Wili can blink to the target when she use close-in weapons attack.
+3.Wili has 35% chance to dodge the attack.
+4.Night viewing
+5.Wili's sanity reduce slow, but she can't recovery when she pick up flowers;
+6.Wili's temperature change rate is two times more than others, but she can bear more damage when it's cold or hot.
+7.Wili can't make friends with pig-man, bunny-man and rocky.
+
+Exclusive Weapon:Silver Moon Scimitar
+1.The scimitar has 1% chance produce a gem when use it attack.
+2.It will never be damaged.
+
+Author's words:
+English is not my first language, so if you can not understand Wili's features, just point it out.
+Code part made by Nanaya Master. Email:826010478@qq.com
+Art part made by INN. Email:774045241@qq.com
+If you are a Chinese, you can use Chinese version. 
+http://pan.baidu.com/s/1pJy5Jo3
