@@ -1,0 +1,35 @@
+UPDATE 7/18/2014: Version 1.11 released.
+-API version updated; mod should no longer appear to be out-of-date
+-Implemented new vanilla/RoG compatibility specs; mod should now clearly be compatible with both vanilla and RoG 
+
+UPDATE 3/3/2014: Version 1.1 released. 
+-API version updated; mod should no longer appear to be out-of-date 
+-Fixed graphical annoyance where deep-freezer inventory appeared in same spot as normal chests 
+
+Deep-freeze your food! But be careful, frozen food will take two days to thaw! 
+
+These items cannot be frozen: 
+-Dried foods 
+-Cooked foods 
+-Crockpot products 
+-Stale foods 
+-Spoiled foods 
+
+All other foods can be frozen - even if it's from another mod! 
+
+The Deep-freezer can be prototyped using the Alchemy Engine. 
+Ingredients: 
+-5 Boards 
+-5 Cut Stone 
+-2 Complex Machinery 
+
+The Complex Machinery component can be prototyped using the Alchemy Engine. 
+Ingredients: 
+-1 Gears 
+-1 Gold Nugget 
+
+This mod is All's Well That Maxwell compatable. 
+
+Created by Luminite2 and CaptainHammer314. 
+
+This is version 1.11, please let us know of any bugs you find.
