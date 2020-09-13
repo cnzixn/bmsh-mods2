@@ -1,0 +1,1 @@
+local G = DYCLegendary local require = G.DYCModRequire local MakeFx = require( "dyc_makefx" ) local prefabs = {} local list = require( "dyc_fxlist" ) for k, v in pairs(list) do table.insert(prefabs, MakeFx(v)) end return unpack(prefabs) 

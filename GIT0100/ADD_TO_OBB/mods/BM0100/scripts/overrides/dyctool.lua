@@ -1,0 +1,1 @@
+local function MakeNoBrokeAnim(self, b) self.dycNoBrokeAnim = b end local function DYCTool(self) self.MakeNoBrokeAnim = MakeNoBrokeAnim end return DYCTool 

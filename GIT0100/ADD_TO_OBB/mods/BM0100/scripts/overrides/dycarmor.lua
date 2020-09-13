@@ -1,0 +1,1 @@
+ local function TakeDamage(self, damage_amount, attacker, weapon, ...) if damage_amount and damage_amount <= 0x0 then self.inst:PushEvent( "armorhit" ) return damage_amount end return self.dycOldTakeDamage(self, damage_amount, attacker, weapon, ...) end local function DYCArmor(self) self.dycOldTakeDamage = self.TakeDamage self.TakeDamage = TakeDamage end return DYCArmor 

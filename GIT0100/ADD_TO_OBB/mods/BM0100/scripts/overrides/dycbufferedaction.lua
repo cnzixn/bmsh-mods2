@@ -1,0 +1,1 @@
+local oldDo = BufferedAction.Do function BufferedAction:Do(...) local doer = self.doer local action = self.action local actionId = action and action.id if self:IsValid() and doer and actionId then doer.dycIsManualEquipOrUnequip = true doer:DoTaskInTime(0x0, function() doer.dycIsManualEquipOrUnequip = false end) end return oldDo(self, ...) end 

@@ -1,0 +1,1 @@
+local function torchfire(inst) EmitterManager:RemoveEmitter(inst) local fire = inst:SpawnChild( "dyc_p_fire_quick" ) fire:SetPercentage(0.4) end return torchfire 
