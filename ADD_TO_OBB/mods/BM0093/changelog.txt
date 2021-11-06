@@ -1,0 +1,12 @@
+Version 1.0.0
+- Initial upload
+
+Version 1.1
+- Menacing (red) light now drains sanity.
+- Typos fixed.
+
+Version 1.1.1
+- Wickerbottom string grammar fix.
+
+Version 1.1.2
+- Changed the recipes to only require 1 gem
