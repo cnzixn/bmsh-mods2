@@ -1,0 +1,13 @@
+<Atlas>
+<Texture filename="BuffUI.tex" />
+<Elements>
+<Element name="blood_slaughter.tex" u1="0" u2="0.25" v1="0" v2="0.5" />
+<Element name="vampire.tex" u1="0.25" u2="0.5" v1="0" v2="0.5" />
+<Element name="ultimate.tex" u1="0.5" u2="0.75" v1="0" v2="0.5" />
+<Element name="buff_plant.tex" u1="0.75" u2="1" v1="0" v2="0.5" />
+<Element name="buff_flower.tex" u1="0" u2="0.25" v1="0.5" v2="1" />
+<Element name="lotus_bless.tex" u1="0.25" u2="0.5" v1="0.5" v2="1" />
+<Element name="blood_nemesis.tex" u1="0.5" u2="0.75" v1="0.5" v2="1" />
+<Element name="shock.tex" u1="0.75" u2="1" v1="0.5" v2="1" />
+</Elements>
+</Atlas>
